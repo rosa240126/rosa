@@ -1,2 +1,2 @@
 # rosa
-source code of paper "ROSA: Recommendation of Omni Sequence Attention" will be coming soon
+source code of paper "ROSA: RECOMMENDER SYSTEM BASED UPON OMNI SEQUENCE ATTENTION" will be coming soon
